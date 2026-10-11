@@ -1,0 +1,37 @@
+{
+  "checked": "2026-10-11",
+  "usage": "Illustrative assets incorporated in this website design. No claim these depict AIL projects or employees; no endorsement implied.",
+  "assets": {
+    "hero.mp4": {
+      "source_page": "https://mixkit.co/free-stock-video/train-bridge-under-construction-2088/",
+      "download_url": "https://assets.mixkit.co/videos/2088/2088-1080.mp4",
+      "description": "Real drone footage of rail bridge construction through a forest at sunset. Illustrative stock, not an AIL project.",
+      "credit": "Mixkit",
+      "license": "Mixkit Stock Video Free License",
+      "license_url": "https://mixkit.co/license/",
+      "license_evidence": "Exact source page states free for commercial and personal use. Checked 2026-10-11.",
+      "processing": "1920x1080 H264, 15.015 seconds, silent, faststart. Web re-encode CRF24; 2,688,485 bytes."
+    },
+    "hero-poster.jpg": {
+      "derived_from": "hero.mp4",
+      "description": "Frame at 4 seconds; original 1920x1080.",
+      "license": "Same as hero.mp4"
+    },
+    "bridge.jpg": {
+      "source_page": "https://www.pexels.com/photo/bridge-over-river-8967815/",
+      "download_url": "https://images.pexels.com/photos/8967815/pexels-photo-8967815.jpeg?auto=compress&cs=tinysrgb&w=2200&q=90",
+      "description": "Aerial bridge over river at Mohanur, India. Illustrative stock, not an AIL project.",
+      "credit": "Ranjith vp",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/"
+    },
+    "people.jpg": {
+      "source_page": "https://www.pexels.com/photo/a-man-and-a-woman-working-at-a-construction-site-8961070/",
+      "download_url": "https://images.pexels.com/photos/8961070/pexels-photo-8961070.jpeg?auto=compress&cs=tinysrgb&w=2000&q=90",
+      "description": "Two engineering professionals at a construction site. Illustrative stock, not AIL staff.",
+      "credit": "Mikael Blomkvist",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/"
+    }
+  }
+}

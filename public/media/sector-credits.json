@@ -1,0 +1,51 @@
+{
+  "checked": "2026-10-11",
+  "usage": "All media in this folder is illustrative stock. It does not depict verified Angelique projects, employees or locations. No endorsement implied. Assets are embedded in this specific client-review website, not offered as a stock collection.",
+  "assets": {
+    "power.jpg": {
+      "source_page": "https://www.pexels.com/photo/solar-panels-in-a-solar-farm-9229392/",
+      "download_url": "https://images.pexels.com/photos/9229392/pexels-photo-9229392.jpeg?auto=compress&cs=tinysrgb&w=2000&q=90",
+      "credit": "K",
+      "description": "Aerial solar farm",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "license_evidence": "Source asset marked Free; Pexels license permits website use and modification. Attribution optional; no implied endorsement."
+    },
+    "water.jpg": {
+      "source_page": "https://www.pexels.com/photo/aerial-view-of-modern-water-treatment-facility-35425759/",
+      "download_url": "https://images.pexels.com/photos/35425759/pexels-photo-35425759.jpeg?auto=compress&cs=tinysrgb&w=2000&q=90",
+      "credit": "Giant Asparagus",
+      "description": "Aerial water treatment plant",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "license_evidence": "Source asset marked Free; Pexels license permits website use and modification. Attribution optional; no implied endorsement."
+    },
+    "agriculture.jpg": {
+      "source_page": "https://www.pexels.com/photo/aerial-view-of-vibrant-agricultural-fields-with-tractor-35750836/",
+      "download_url": "https://images.pexels.com/photos/35750836/pexels-photo-35750836.jpeg?auto=compress&cs=tinysrgb&w=2000&q=90",
+      "credit": "\u00d6MER \u015eAH\u0130N",
+      "description": "Tractor in geometrical farm fields",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "license_evidence": "Source asset marked Free; Pexels license permits website use and modification. Attribution optional; no implied endorsement."
+    },
+    "industrial.jpg": {
+      "source_page": "https://www.pexels.com/photo/industrial-machinery-in-a-factory-18920790/",
+      "download_url": "https://images.pexels.com/photos/18920790/pexels-photo-18920790.jpeg?auto=compress&cs=tinysrgb&w=2000&q=90",
+      "credit": "Kalpesh Damor",
+      "description": "Industrial factory interior, Ahmedabad, India",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "license_evidence": "Source asset marked Free; Pexels license permits website use and modification. Attribution optional; no implied endorsement."
+    },
+    "infrastructure.jpg": {
+      "source_page": "https://www.pexels.com/photo/crane-working-on-building-construction-11296966/",
+      "download_url": "https://images.pexels.com/photos/11296966/pexels-photo-11296966.jpeg?auto=compress&cs=tinysrgb&w=2000&q=90",
+      "credit": "Lucas Pezeta",
+      "description": "Construction crane at sunset",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "license_evidence": "Source asset marked Free; Pexels license permits website use and modification. Attribution optional; no implied endorsement."
+    }
+  }
+}
